@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OfficeDemo</string>
+    <string name="Mobile">Mobile</string>
+    <string name="PREFS_MOBILE_NUMBER">mobileNumber</string>
+    <string name="PREF_ISLOGIN_EMPLOYEE">isLoginEmployee</string>
+    <string name="PREF_ISLOGIN_MANAGER">isLoginManager</string>
+    <string name="isFirstTimeShowVideo">isFirstTimeShowVideo</string>
+    <string name="isFirstTimeShowVideoDepartment">isFirstTimeShowVideoDepartment</string>
+    <string name="isFirstTimeShowVideoDepartmentEmployee">isFirstTimeShowVideoDepartmentEmployee
+    </string>
+    <string name="speak_number">Tap on the mic to speak</string>
+    <string name="btn_skip_intro">Skip</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
